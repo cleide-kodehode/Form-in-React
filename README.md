@@ -1,4 +1,4 @@
-[Form](https://user-images.githubusercontent.com/113598976/220930498-3e9bb452-210b-4596-987c-035a01f3c9ba.png)
+
  # Getting Started! with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
